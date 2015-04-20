@@ -47,3 +47,10 @@
     font-weight: bold;
     line-height: 1;
 }
+
+.zci--cheat_sheets  .cheatsheet__icon {
+    display: block;
+    margin-bottom: 0.4em;
+    height: 22px;
+    width: 22px;
+}

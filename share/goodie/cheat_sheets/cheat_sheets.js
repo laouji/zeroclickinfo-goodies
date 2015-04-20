@@ -12,6 +12,13 @@ DDH.cheat_sheets.build = function(ops) {
         return result;
     });
 
+    Handlebars.registerHelper('is_icon_sheet', function(str, options) {
+       if (str.match(/^Emoji$/)) {
+           return options.fn(this);
+       }
+       return options.inverse(this);
+    });
+
     return {
          onShow: function() {
             var $dom = $("#zci-cheat_sheets"),

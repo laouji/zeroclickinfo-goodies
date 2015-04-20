@@ -1,0 +1,388 @@
+{
+    "name": "Emoji",
+    "description": "Emoticons supported on Campfire, Github, etc",
+    "meta": {
+        "sourceName": "EmojiCheatSheet",
+        "sourceUrl": "http://www.emoji-cheat-sheet.com/"
+    },
+    "section_order": [
+        "People",
+        "Nature",
+        "Objects",
+        "Places",
+        "Symbols"
+
+    ],
+    "sections": {
+        "People" : [
+            {
+              "key" : ":smile:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/smile.png"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/laughing.png",
+              "key" : ":laughing:"
+            },
+            {
+              "key" : ":sob:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/sob.png"
+            },
+            {
+              "key" : ":smirk:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/smirk.png"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/heart_eyes.png",
+              "key" : ":heart_eyes:"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/flushed.png",
+              "key" : ":flushed:"
+            },
+            {
+              "key" : ":rage:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/rage.png"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/weary.png",
+              "key" : ":weary:"
+            },
+            {
+              "key" : ":scream:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/scream.png"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/wink.png",
+              "key" : ":wink:"
+            },
+            {
+              "key" : ":heart:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/heart.png"
+            },
+            {
+              "key" : ":exclamation:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/exclamation.png"
+            },
+            {
+              "key" : ":question:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/question.png"
+            },
+            {
+              "key" : ":+1:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/plus1.png"
+            },
+            {
+              "key" : ":-1:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/-1.png"
+            },
+            {
+              "key" : ":ok_hand:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/ok_hand.png"
+            },
+            {
+              "key" : ":ok_woman:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/ok_woman.png"
+            },
+            {
+              "key" : ":no_good:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/no_good.png"
+            }
+        ],
+        "Places" : [
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/house.png",
+              "key" : ":house:"
+            },
+            {
+              "key" : ":school:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/school.png"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/hospital.png",
+              "key" : ":hospital:"
+            },
+            {
+              "key" : ":hotel:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/hotel.png"
+            },
+            {
+              "key" : ":church:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/church.png"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/tent.png",
+              "key" : ":tent:"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/rainbow.png",
+              "key" : ":rainbow:"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/stars.png",
+              "key" : ":stars:"
+            },
+            {
+              "key" : ":city_sunset:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/city_sunset.png"
+            },
+            {
+              "key" : ":european_castle:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/european_castle.png"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/roller_coaster.png",
+              "key" : ":roller_coaster:"
+            },
+            {
+              "key" : ":factory:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/factory.png"
+            },
+            {
+              "key" : ":construction:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/construction.png"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/boat.png",
+              "key" : ":boat:"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/airplane.png",
+              "key" : ":airplane:"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/helicopter.png",
+              "key" : ":helicopter:"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/bike.png",
+              "key" : ":bike:"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/car.png",
+              "key" : ":car:"
+            }
+        ],
+        "Symbols" : [
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/one.png",
+              "key" : ":one:"
+            },
+            {
+              "key" : ":two:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/two.png"
+            },
+            {
+              "key" : ":three:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/three.png"
+            },
+            {
+              "key" : ":four:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/four.png"
+            },
+            {
+              "key" : ":five:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/five.png"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/six.png",
+              "key" : ":six:"
+            },
+            {
+              "key" : ":seven:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/seven.png"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/eight.png",
+              "key" : ":eight:"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/nine.png",
+              "key" : ":nine:"
+            },
+            {
+              "key" : ":keycap_ten:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/keycap_ten.png"
+            },
+            {
+              "key" : ":zero:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/zero.png"
+            },
+            {
+              "key" : ":hash:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/hash.png"
+            },
+            {
+              "key" : ":symbols:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/symbols.png"
+            },
+            {
+              "key" : ":arrow_backward:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/arrow_backward.png"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/arrow_down.png",
+              "key" : ":arrow_down:"
+            },
+            {
+              "key" : ":arrow_forward:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/arrow_forward.png"
+            },
+            {
+              "key" : ":arrow_left:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/arrow_left.png"
+            },
+            {
+              "key" : ":capital_abcd:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/capital_abcd.png"
+            }
+        ],
+        "Nature" : [
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/sunny.png",
+              "key" : ":sunny:"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/umbrella.png",
+              "key" : ":umbrella:"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/cloud.png",
+              "key" : ":cloud:"
+            },
+            {
+              "key" : ":snowflake:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/snowflake.png"
+            },
+            {
+              "key" : ":snowman:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/snowman.png"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/zap.png",
+              "key" : ":zap:"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/cyclone.png",
+              "key" : ":cyclone:"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/foggy.png",
+              "key" : ":foggy:"
+            },
+            {
+              "key" : ":ocean:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/ocean.png"
+            },
+            {
+              "key" : ":cat:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/cat.png"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/dog.png",
+              "key" : ":dog:"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/mouse.png",
+              "key" : ":mouse:"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/hamster.png",
+              "key" : ":hamster:"
+            },
+            {
+              "key" : ":rabbit:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/rabbit.png"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/wolf.png",
+              "key" : ":wolf:"
+            },
+            {
+              "key" : ":frog:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/frog.png"
+            },
+            {
+              "key" : ":tiger:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/tiger.png"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/octocat.png",
+              "key" : ":octocat:"
+            }
+        ],
+        "Objects" : [
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/computer.png",
+              "key" : ":computer:"
+            },
+            {
+              "key" : ":hourglass:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/hourglass.png"
+            },
+            {
+              "key" : ":key:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/key.png"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/school_satchel.png",
+              "key" : ":school_satchel:"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/lock.png",
+              "key" : ":lock:"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/unlock.png",
+              "key" : ":unlock:"
+            },
+            {
+              "key" : ":bulb:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/bulb.png"
+            },
+            {
+              "key" : ":fireworks:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/fireworks.png"
+            },
+            {
+              "key" : ":phone:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/phone.png"
+            },
+            {
+              "key" : ":beer:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/beer.png"
+            },
+            {
+              "key" : ":jack_o_lantern:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/jack_o_lantern.png"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/christmas_tree.png",
+              "key" : ":christmas_tree:"
+            },
+            {
+              "key" : ":gift:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/gift.png"
+            },
+            {
+              "key" : ":moneybag:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/moneybag.png"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/pencil2.png",
+              "key" : ":pencil2:"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/bell.png",
+              "key" : ":bell:"
+            },
+            {
+              "key" : ":no_bell:",
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/no_bell.png"
+            },
+            {
+              "val" : "http://www.emoji-cheat-sheet.com/graphics/emojis/tada.png",
+              "key" : ":tada:"
+            }
+        ]
+    }
+}

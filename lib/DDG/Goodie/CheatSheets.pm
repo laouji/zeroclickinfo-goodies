@@ -15,7 +15,8 @@ code_url 'https://github.com/duckduckgo/zeroclickinfo-goodies/blob/master/lib/DD
 category 'cheat_sheets';
 topics qw'computing geek programming sysadmin';
 attribution github => [zachthompson => 'Zach Thompson'],
-            github => [moollaza => 'Zaahir Moolla'];
+            github => [moollaza => 'Zaahir Moolla'],
+            github => [laouji => 'Crimson Thompson'];
 
 triggers startend => (
     'char', 'chars',

@@ -2,19 +2,31 @@
 <h4 class="c-base__sub">{{description}}</h4>
 
 <div class="gw cheatsheet__container compressed">
-
     {{#ordered_cheatsheet sections section_order}}
-    <div class="g half cheatsheet__section">
+    <div class="g {{#is_icon_sheet ../name}}third{{else}}half{{/is_icon_sheet}} cheatsheet__section">
         <h6 class="cheatsheet__title">{{name}}</h6>
         <div class="gw">
-        {{#each items}}
+        {{#is_icon_sheet ../name}}
+            {{#each items}}
+            <div class="g half">
+                <div class="g eigth">
+                    <img class="cheatsheet__icon" src="{{val}}" />
+                </div>
+                <div class="g forty">
+                    <span class="cheatsheet__data"><code>{{key}}</code></span>
+                </div>                  
+            </div>
+            {{/each}}
+        {{else}}
+            {{#each items}}
             <div class="g forty">
                 <span class="cheatsheet__data"><code>{{key}}</code></span>
             </div>
             <div class="g sixty">
                 <span class="cheatsheet__data">{{val}}</span>
             </div>
-        {{/each}}
+            {{/each}}
+        {{/is_icon_sheet}}
         </div>
     </div>
     {{/ordered_cheatsheet}}
